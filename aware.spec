@@ -4,7 +4,7 @@
 #	unknown BR, missing Summary(pl) and description(pl)
 #	project looks interesting but needs time and work :)
 Summary:	Asynchronous Event Framework for Responsive Applications, System Control and Monitoring
-Summary(pl.UTF-8):   Środowisko zdarzeń asynchronicznych dla aplikacji, kontroli systemu i monitorowania
+Summary(pl.UTF-8):	Środowisko zdarzeń asynchronicznych dla aplikacji, kontroli systemu i monitorowania
 Name:		aware
 Version:	0.11.1
 Release:	0.1
