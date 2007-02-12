@@ -4,7 +4,7 @@
 #	unknown BR, missing Summary(pl) and description(pl)
 #	project looks interesting but needs time and work :)
 Summary:	Asynchronous Event Framework for Responsive Applications, System Control and Monitoring
-Summary(pl):	¦rodowisko zdarzeñ asynchronicznych dla aplikacji, kontroli systemu i monitorowania
+Summary(pl.UTF-8):   Åšrodowisko zdarzeÅ„ asynchronicznych dla aplikacji, kontroli systemu i monitorowania
 Name:		aware
 Version:	0.11.1
 Release:	0.1
@@ -23,11 +23,11 @@ services and system resources. Additionally, Aware allows the
 cross-correllation of many different streams of information, and
 includes a Web-based reporting interface.
 
-%description -l pl
-Aware to rozproszone ¶rodowisko do przetwarzania zdarzeñ o wysokiej
-wydajno¶ci zbudowane do zarz±dzania systemami. Jest dostarczane z
-sondami dla popularnych us³ug sieciowych i zasobów systemowych.
-Ponadto Aware pozwala na kojarzenie wielu ró¿nych strumieni informacji
+%description -l pl.UTF-8
+Aware to rozproszone Å›rodowisko do przetwarzania zdarzeÅ„ o wysokiej
+wydajnoÅ›ci zbudowane do zarzÄ…dzania systemami. Jest dostarczane z
+sondami dla popularnych usÅ‚ug sieciowych i zasobÃ³w systemowych.
+Ponadto Aware pozwala na kojarzenie wielu rÃ³Å¼nych strumieni informacji
 i zawiera interfejs informacyjny oparty na WWW.
 
 %prep
